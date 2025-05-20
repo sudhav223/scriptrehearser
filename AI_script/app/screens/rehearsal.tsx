@@ -427,6 +427,8 @@ const lastTranscript = useRef<string>('');
       console.error('Failed to save rehearsal result:', error);
     }
   };
+
+  
   
   
   return (
